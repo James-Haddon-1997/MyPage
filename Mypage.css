@@ -181,5 +181,21 @@ a:hover, a:focus, a:active {
     color: black;
 }
 
+.btn {
+    background-color: Black;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+.btn:hover {
+    background-color: Blue;
+}
+
+.btn: active
+{backgroud-colour: black}
 
 </style>
